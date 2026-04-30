@@ -1,6 +1,6 @@
-{
+ {
   "name": "athx-prep",
-  "version": "1.0.0",
+   "version": "1.0.0",
   "private": true,
   "description": "Application React de suivi ATHX Prep",
   "scripts": {
@@ -25,5 +25,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-}
+   }
+ }
