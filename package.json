@@ -1,29 +1,11 @@
- {
-  "name": "athx-prep",
-   "version": "1.0.0",
+{
+  "name": "mon-tracker",
+  "version": "1.0.0",
   "private": true,
-  "description": "Application React de suivi ATHX Prep",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+  "description": "ATHX Prep",
+  "main": "Src/index.js",
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-scripts": "^5.0.1"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-   }
- }
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
